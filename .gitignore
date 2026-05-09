@@ -1,0 +1,27 @@
+# ห้าม commit ไฟล์เหล่านี้เด็ดขาด
+node_modules/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+*.env
+
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependenciess
